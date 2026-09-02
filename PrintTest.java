@@ -1,4 +1,6 @@
-public class Challenges {
+package assignments;
+
+public class PrintTest {
 	public static void main(String[] args) {
 		
 		//Challenge - Hello World
