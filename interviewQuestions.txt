@@ -1,10 +1,45 @@
-Tell me about a time you were in a conflict with a co-worker and how you handled it?
-How do you deal with hard situations?
-What are some of your strengths?
-What are some of your weaknesses?
-Are you the leader type?
-Tell me about yourself?
-What are you interested in?
-What do you do in your free time?
-What is something related to work that you are proud of?
-What is one time in your work that you stepped up when you had to?
+- Tell me about a time you were in a conflict with a co-worker and how you handled it?
+	My final school project was a group project, and one of my teammates began missing classes and meetings without communicating with us. We were understanding as long as he continued completing his work, but as we approached the presentation and final report, he became unresponsive. He was responsible for the final report, and after a week of trying to contact him without a response, I reached out to our professor to explain the situation.
+
+Before doing so, I told my teammate that we weren't upset with him and that all we needed was communication. I let him know that if he needed help, we were willing to take on additional tasks, and he didn't need to share any personal details—just let us know what was going on. After contacting the professor, he eventually reached out, and we were able to come together as a team and complete the final report that same day.
+
+This experience taught me the importance of communication, accountability, and being understanding when working as a team.
+
+- How do you deal with hard situations?
+	In a difficult situation, I try to find the best way to approach it. I usually give myself about five minutes to take a deep breath, prepare myself, and stay calm before taking on the task. I find that staying calm helps me think clearly and put my best effort into finding a solution.
+
+- What are some of your strengths?
+	Some of my strengths are that I enjoy learning and solving problems. When there is something I don't understand that is important to a task, I make sure I take the time to fully understand it and find the best approach.
+
+Another strength is problem-solving. If I make a mistake, I like to break down what happened, understand why it happened, and think about what I could have done differently to prevent it. That way, if I encounter a similar situation again, I know how to approach and resolve it more effectively.
+
+-What are some of your weaknesses?
+	One weakness I've been working on is becoming impatient when I have trouble solving a problem. I enjoy finding solutions when I can see progress, but when I get stuck, I can become frustrated and spend too much time trying to force a solution. I've been working on recognizing when I need to step back, reassess the problem, and ask for help when necessary.
+
+Another weakness is overthinking. I like to prepare and plan how I'm going to approach a task, so when I start something new, I sometimes spend too much time trying to make sure I have the perfect approach. I've been working on being more comfortable taking the first step, learning as I go, and making adjustments along the way.
+
+-Are you the leader type?
+	I wouldn't necessarily say I'm the leader type, but if I need to step up, I'm comfortable doing so. I prefer to be supportive of everyone on the team. I understand that I'm not going to be the best at every task, so if someone else has more experience or is better suited for something, I encourage them to step up and take the lead. I believe everyone on a team can have an opportunity to be a leader depending on the task.
+	
+-Tell me about yourself?
+	I recently graduated with a bachelor’s degree in Information Technology. Throughout my studies, I primarily worked with Java and developed a strong foundation in object-oriented programming, databases, and web development.
+
+I’m looking to expand my skills and gain more hands-on experience in IT and software development. I learn best by applying what I know to real-world problems, so I’m excited about the opportunity to continue learning, contribute to a team, and grow in a professional environment.
+
+-What are you interested in?
+	I’m interested in pursuing a career in software development and continuing to build my skills in IT. Outside of work, I enjoy spending time with my family and friends, listening to music, and driving. I like having a good balance between developing my career and making time for the things I enjoy.
+
+-What do you do in your free time?
+	In my free time, I like to work out, listen to music, and spend time with my friends and family. I also enjoy exploring new areas or revisiting places I've been to before. I really enjoy driving as well, so sometimes I'll just take a drive and explore.
+	
+-What is something related to work that you are proud of?
+	Something I'm proud of is how much I've grown in my ability to work as part of a team. At my previous job, there were times when we had a lot of work to get through, especially on truck days. I learned how to stay organized, communicate with my coworkers, and make sure the work was completed efficiently.
+
+I'm also proud of how quickly I've been able to learn in software development. During a group programming project, I had to debug some code written by a teammate whose coding style was different from mine. At first, I didn't fully understand how his code worked, but I was able to look through it, understand how the different parts connected, and find the issue. It showed me that I can adapt to different approaches and learn quickly when I need to.
+
+	
+-What is one time in your work that you stepped up when you had to?
+	One time I had to step up was during a group software development project. My team and I had experience with planning, but not much hands-on experience with web development, so I took the initiative to learn HTML, CSS, and JavaScript to help guide the team when we ran into issues.
+
+I've also had to step up at my previous job during busy truck days when we had a large amount of furniture to unload and organize. I would help wherever I was needed, whether that was unloading, organizing the warehouse, or helping with customer loadouts. In both situations, I focused on what needed to be done rather than waiting for someone to tell me what to do.
+
