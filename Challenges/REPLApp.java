@@ -39,7 +39,7 @@ public class REPLApp {
 				System.out.print("Maximum: ");
 				int max = in.nextInt();
 				
-				System.out.println("Random Number: " + ((int)(Math.random()*(max-min)*1)));
+				System.out.println("Random Number: " + ((int)(Math.random()*(max-min+1))));
 			}else if(option.equalsIgnoreCase("reverse")) {
 				in.nextLine();
 				System.out.print("Enter text: ");
