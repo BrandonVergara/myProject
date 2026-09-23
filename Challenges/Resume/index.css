@@ -40,3 +40,39 @@ footer{
     justify-content: flex-end;
     margin-right: 10px;
 }
+
+.facts{
+    display:flex;
+    justify-content:space-evenly;
+    width:100%;
+}
+
+button{
+  font-family: PlusJakartaSans, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Cantarell, Helvetica Neue, Ubuntu, sans-serif;
+  font-size: 1rem;
+  align-items: center;
+  height: 48px;
+  border-radius: 0.4rem;
+  font-weight: 600;
+  padding: 0 1.2rem;
+  color: rgb(170, 148, 148);
+  border-color: rgb(170, 148, 148);
+  cursor: pointer;
+  background: white;
+}
+
+button:enabled:hover{
+    background-color:rgb(170, 148, 148);
+    color: white;
+    border-color: white;
+}
+
+button:disabled{
+    cursor:default;
+    background: lightgrey;
+}
+
+#container {
+    padding-bottom:10px;
+}
